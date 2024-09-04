@@ -8,6 +8,9 @@ Welcome to my Flappy Bird clone project created with Pygame! This project is an 
   <img src="img/game_over.png" alt="Screenshot" width="144" height="256" style="display:inline-block;"/>
 </div>
 
+## YouTube Video
+https://youtu.be/Ai5ZMinFQFw?si=IUHT3ZwCOh4Zurhs
+
 ## How to Play
 - Press S to start the game.
 - Press Enter to flap the bird.
